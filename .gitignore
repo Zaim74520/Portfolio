@@ -1,1 +1,37 @@
-.bash_history\n.cache/\n.gitconfig\n.lingma/\n.local/\n.vscode/\nAppData/\nNTUSER.DAT*\nntuser.*\nDesktop/\nDocuments/\nDownloads/\nMusic/\nPictures/\nVideos/\nOneDrive/\n3D Objects/\nContacts/\nCookies/\nFavorites/\nLinks/\nLocal Settings/\nRecent/\nSaved Games/\nSearches/\nSendTo/\nmy-first-project/\n*\320*
+# System files
+.bash_history
+.cache/
+.gitconfig
+.lingma/
+.local/
+.vscode/
+AppData/
+NTUSER.DAT*
+ntuser.*
+
+# Windows folders
+Desktop/
+Documents/
+Downloads/
+Music/
+Pictures/
+Videos/
+OneDrive/
+3D Objects/
+Contacts/
+Cookies/
+Favorites/
+Links/
+Local Settings/
+Recent/
+Saved Games/
+Searches/
+SendTo/
+
+# Temporary files
+*.log
+*.tmp
+*.save
+
+# Project-specific ignores (if needed)
+my-first-project/
